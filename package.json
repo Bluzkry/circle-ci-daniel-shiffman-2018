@@ -1,0 +1,21 @@
+{
+  "name": "circle-ci-daniel-shiffman-2018",
+  "version": "1.0.0",
+  "description": "This is the Circle CI tutorial of Daniel Shiffman.",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Circle",
+    "Ci",
+    "Daniel",
+    "Shiffman",
+    "tutorial"
+  ],
+  "author": "Alexander Zou",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
